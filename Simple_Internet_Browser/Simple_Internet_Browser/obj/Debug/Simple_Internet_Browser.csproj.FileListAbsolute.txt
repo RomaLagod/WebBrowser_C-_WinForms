@@ -1,0 +1,11 @@
+E:\Work_Table\ШАГ\C#_forms\HomeWork\HW_6_Kursak_InternetBrowser\Simple_Internet_Browser\Simple_Internet_Browser\bin\Debug\Simple_Internet_Browser.exe.config
+E:\Work_Table\ШАГ\C#_forms\HomeWork\HW_6_Kursak_InternetBrowser\Simple_Internet_Browser\Simple_Internet_Browser\bin\Debug\Simple_Internet_Browser.exe
+E:\Work_Table\ШАГ\C#_forms\HomeWork\HW_6_Kursak_InternetBrowser\Simple_Internet_Browser\Simple_Internet_Browser\bin\Debug\Simple_Internet_Browser.pdb
+E:\Work_Table\ШАГ\C#_forms\HomeWork\HW_6_Kursak_InternetBrowser\Simple_Internet_Browser\Simple_Internet_Browser\obj\Debug\Simple_Internet_Browser.csprojResolveAssemblyReference.cache
+E:\Work_Table\ШАГ\C#_forms\HomeWork\HW_6_Kursak_InternetBrowser\Simple_Internet_Browser\Simple_Internet_Browser\obj\Debug\Simple_Internet_Browser.Form1.resources
+E:\Work_Table\ШАГ\C#_forms\HomeWork\HW_6_Kursak_InternetBrowser\Simple_Internet_Browser\Simple_Internet_Browser\obj\Debug\Simple_Internet_Browser.Properties.Resources.resources
+E:\Work_Table\ШАГ\C#_forms\HomeWork\HW_6_Kursak_InternetBrowser\Simple_Internet_Browser\Simple_Internet_Browser\obj\Debug\Simple_Internet_Browser.csproj.GenerateResource.Cache
+E:\Work_Table\ШАГ\C#_forms\HomeWork\HW_6_Kursak_InternetBrowser\Simple_Internet_Browser\Simple_Internet_Browser\obj\Debug\Simple_Internet_Browser.csproj.CoreCompileInputs.cache
+E:\Work_Table\ШАГ\C#_forms\HomeWork\HW_6_Kursak_InternetBrowser\Simple_Internet_Browser\Simple_Internet_Browser\obj\Debug\Simple_Internet_Browser.exe
+E:\Work_Table\ШАГ\C#_forms\HomeWork\HW_6_Kursak_InternetBrowser\Simple_Internet_Browser\Simple_Internet_Browser\obj\Debug\Simple_Internet_Browser.pdb
+E:\Work_Table\ШАГ\C#_forms\HomeWork\HW_6_Kursak_InternetBrowser\Simple_Internet_Browser\Simple_Internet_Browser\obj\Debug\Simple_Internet_Browser.History_Form.resources
